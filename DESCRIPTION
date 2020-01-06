@@ -1,6 +1,6 @@
 Package: SOES1015
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Dependencies and data for SOES1015 Statistical Computing for Marine Biologists
 Version: 0.1.0
 Author: Tom Ezard
 Maintainer: Tom Ezard <t.ezard@soton.ac.uk>
