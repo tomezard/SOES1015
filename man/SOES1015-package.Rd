@@ -6,7 +6,7 @@
 \docType{package}
 \title{Supporting material for SOES1015}
 \description{
-Datasets and dependencies for SOES1015 Statistical Computing in Marine Sciences, a 1st year module in Ocean and Earth Sciences at the University of Southampton. The datasets are available online, either through R or elsewhere as published material that accompanies the manuscripts. I will add help files to all in due course, but don't hesitate to contact me if you require the accompanying metadata before that happens.
+Datasets and dependencies for SOES1015 Statistical Computing in Marine Sciences, a 1st year module in Ocean and Earth Sciences at the University of Southampton. The datasets are available online, either through R or elsewhere as published material that accompanies the manuscripts. I will add help files describing the metadata in due course (see the relevant practical session on Blackboard), but don't hesitate to contact me if you require the accompanying metadata before that happens.
 }
 \details{
 \tabular{ll}{
