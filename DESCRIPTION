@@ -4,9 +4,8 @@ Title: Dependencies and data for SOES1015 Statistical Computing for Marine Biolo
 Version: 0.1.0
 Author: Tom Ezard
 Maintainer: Tom Ezard <t.ezard@soton.ac.uk>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: Dependencies and data for SOES1015 Statistical Computing for Marine Biologists, a compulsory module for Marine Biology student in the School of Ocean and Earth Science at the University of Southampton.
+License: MIT
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 3.5.0), ggplot2, dplyr, tidyr, lubridate
+Depends: R (>= 3.6.2), ggplot2, dplyr, tidyr, lubridate
