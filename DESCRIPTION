@@ -1,10 +1,10 @@
 Package: SOES1015
 Type: Package
-Title: Dependencies and data for SOES1015 Statistical Computing for Marine Biologists
+Title: Dependencies and data for SOES1015 Data Literacy and Analysis
 Version: 0.1.0
 Author: Tom Ezard
 Maintainer: Tom Ezard <t.ezard@soton.ac.uk>
-Description: Dependencies and data for SOES1015 Statistical Computing for Marine Biologists, a compulsory module for Marine Biology student in the School of Ocean and Earth Science at the University of Southampton.
+Description: Dependencies and data for SOES1015 Data Literacy and Analysis, a compulsory Part 1 module for Marine Biology, Oceanography and Geology students in the School of Ocean and Earth Science at the University of Southampton.
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
