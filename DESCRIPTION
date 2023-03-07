@@ -8,4 +8,4 @@ Description: Dependencies and data for SOES1015 Data Literacy and Analysis, a co
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 4.0.1), ggplot2, dplyr, tidyr, lubridate, viridis
+Depends: R (>= 4.0.1), dplyr, ggplot2, lubridate, readxl, tidyr, viridis
