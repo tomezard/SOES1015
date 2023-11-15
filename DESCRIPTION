@@ -1,4 +1,4 @@
-Package: SOES1015
+ePackage: SOES1015
 Type: Package
 Title: Dependencies and data for SOES1015 Data Literacy and Analysis
 Version: 0.2.0
@@ -8,4 +8,4 @@ Description: Dependencies and data for SOES1015 Data Literacy and Analysis, a co
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 4.0.1), dplyr, ggplot2, lubridate, readxl, tidyr, viridis
+Depends: R (>= 4.0.1), deeptime, dplyr, ggplot2, lubridate, readxl, tidyr, viridis
