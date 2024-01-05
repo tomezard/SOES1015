@@ -1,4 +1,4 @@
-ePackage: SOES1015
+Package: SOES1015
 Type: Package
 Title: Dependencies and data for SOES1015 Data Literacy and Analysis
 Version: 0.2.0
